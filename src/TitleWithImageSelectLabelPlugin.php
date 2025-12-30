@@ -1,15 +1,15 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Ht3aa\TitleWithImageSelectLabel;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 
-class SkeletonPlugin implements Plugin
+class TitleWithImageSelectLabelPlugin implements Plugin
 {
     public function getId(): string
     {
-        return 'skeleton';
+        return 'title-with-image-select-label';
     }
 
     public function register(Panel $panel): void

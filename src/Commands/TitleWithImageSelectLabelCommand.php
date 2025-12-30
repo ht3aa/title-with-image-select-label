@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Ht3aa\TitleWithImageSelectLabel\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TitleWithImageSelectLabelCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'title-with-image-select-label';
 
     public $description = 'My command';
 
