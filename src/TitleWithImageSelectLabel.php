@@ -7,7 +7,6 @@ use Illuminate\Support\HtmlString;
 
 class TitleWithImageSelectLabel extends Select
 {
-
     public function setup(): void
     {
         parent::setup();
